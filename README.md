@@ -10,4 +10,4 @@ mas em projetos complexos onde existe muita troca de informação e muitas regra
 - Redux
 
 ## Interface
-<img src="https://raw.githubusercontent.com/GenaraSousa/to.do/main/assets/f0c619cb-f650-4267-bc39-651fb88ca815.jpg" alt="print interface" style="width:360px; height: 720px "
+<img src="https://raw.githubusercontent.com/GenaraSousa/to.do/main/assets/f0c619cb-f650-4267-bc39-651fb88ca815.jpg" alt="print interface" style="width:360px; height: 720px " />
